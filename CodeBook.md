@@ -21,9 +21,9 @@ tgravityaccmag
 tbodyaccjerkmag
 tbodygyromag
 tbodygyrojerkmag
-fbodyacc-xyz
-fbodyaccjerk-xyz
-fbodygyro-xyz
+fbodyaccxyz
+fbodyaccjerkxyz
+fbodygyroxyz
 fbodyaccmag
 fbodyaccjerkmag
 fbodygyromag
